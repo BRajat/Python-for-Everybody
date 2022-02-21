@@ -1,0 +1,3 @@
+This is line 1, Today is Monday
+The quick brown fox jumps over the lazy dog
+Apples Orange Bananas are the fruits
